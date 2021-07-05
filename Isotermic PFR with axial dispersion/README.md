@@ -12,6 +12,7 @@ The transient axial dispersion model, is given by:
 
 <img src="img/eq_1.png" height="50" />
 
+Where:
 <img src="img/eq_2.png" height="30" />
 
 ## Simulation parameters
