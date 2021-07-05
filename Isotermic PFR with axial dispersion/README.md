@@ -10,9 +10,9 @@ A tubular non-ideal isotermic tubular reactor, occuring que first order tranform
 ## Model
 The transient axial dispersion model, is given by:
 
-<img src="img/eq_1.png" height="20" />
+<img src="img/eq_1.png" height="50" />
 
-Where: ![title](img/eq_2.png)
+<img src="img/eq_2.png" height="50" />
 
 ## Simulation parameters
 | Symbol | Definition                                | Value | Unit    |
