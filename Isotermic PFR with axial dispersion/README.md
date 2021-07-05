@@ -4,4 +4,4 @@ A tubular non-ideal isotermic tubular reactor, occuring que first order tranform
 
 ![title](img/PFR.png)
 
-\alpha
+$$\alpha
