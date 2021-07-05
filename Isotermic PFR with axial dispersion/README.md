@@ -12,7 +12,7 @@ The transient axial dispersion model, is given by:
 
 <img src="img/eq_1.png" height="50" />
 
-<img src="img/eq_2.png" height="50" />
+<img src="img/eq_2.png" height="40" />
 
 ## Simulation parameters
 | Symbol | Definition                                | Value | Unit    |
@@ -26,4 +26,4 @@ The transient axial dispersion model, is given by:
 | u      | Flow speed                                | 1.00  | m.h-1   |
 
 ## Initial conditions
-![title](img/initial condition.png)
+<img src="img/initial condition.png" height="40" />
